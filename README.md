@@ -29,3 +29,7 @@ Jetpack Compose 짧고 굵게 같이 스터디하는 Repo 입니다.
     * [jetpack 공식 문](https://developer.android.com/jetpack/compose)
     * [공식 샘플](https://developer.android.com/jetpack/compose)
     * [공식 코스](https://developer.android.com/courses/pathways/compose)
+    * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+    * [DroidCon - Ask Googlers about Jetpack Compose](https://www.droidcon.com/media-detail?video=470598094)
+    * [DroidCon](https://www.droidcon.com/videos?path=droidcon%20EMEA)
+    * [Accompanist](https://chrisbanes.github.io/accompanist/)

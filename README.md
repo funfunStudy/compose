@@ -16,6 +16,11 @@ Jetpack Compose 짧고 굵게 같이 스터디하는 Repo 입니다.
   * [compose 변경사항](https://android-review.googlesource.com/c/platform/frameworks/support/+/1453857)
   * [Awesome Jetpack Compose Android Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
   * [pluu님 트러블슈팅 정리](http://pluu.github.io/blog/android/2020/10/28/jetpack-compose/)
+* 기타
+  * [유튜브 라이브 코딩-compose 예전버전이라 지금은 동작안하는 코드도 있지만 , 그냥 어느정도 익숙한 사람은 어떤 흐름으로 코드를 작성하는구나 ~ 정도 이해하시기에는 좋을것 같아서 공유드립니다.](https://www.youtube.com/watch?v=GqIXGjXu-xE)
+  * [젯팻 컴포즈 개발자가 하는 유튜브](https://www.youtube.com/c/LelandRichardsonDev/videos)
+  * [젯팻 컴포즈 개발자가 하는 트위](hhttps://www.twitch.tv/intelligibabble)
+  * [컴포즈 1.0.0-alpha06](https://developer.android.com/jetpack/androidx/versions/all-channel#october_28_2020)
 
 ## 킥오프
 * 날짜

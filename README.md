@@ -2,6 +2,21 @@
 
 Jetpack Compose 짧고 굵게 같이 스터디하는 Repo 입니다.
 
+## Week1
+* 날짜
+  * 2020-10-28 수
+* 참석자
+  * 전상수, 성찬호, 노현석, 정승욱, 박병용, 강사룡, 강현석, 권태환, 우명인, 김규하
+* 내용
+  * [유튜브](https://youtu.be/VvGVoQrFkrM)
+* 자료
+  * [승욱님 슬라이드](https://docs.google.com/presentation/d/14cN2o7UcBSRHDyEQ3lsHgeHZzJywvF3wZlawPJa7W5c/edit?usp=sharing)
+  * [Ambient](https://developer.android.com/reference/kotlin/androidx/compose/runtime/Ambient)
+  * [Ambient2](https://developer.android.com/reference/kotlin/androidx/compose/ui/platform/package-summary)
+  * [compose 변경사항](https://android-review.googlesource.com/c/platform/frameworks/support/+/1453857)
+  * [Awesome Jetpack Compose Android Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
+  * [pluu님 트러블슈팅 정리](http://pluu.github.io/blog/android/2020/10/28/jetpack-compose/)
+
 ## 킥오프
 * 날짜
   * 2020-10-21 수

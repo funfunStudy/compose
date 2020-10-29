@@ -8,7 +8,7 @@ Jetpack Compose 짧고 굵게 같이 스터디하는 Repo 입니다.
 * 참석자
   * 전상수, 성찬호, 노현석, 정승욱, 박병용, 강사룡, 강현석, 권태환, 우명인, 김규하
 * 내용
-  * [유튜브](https://youtu.be/VvGVoQrFkrM)
+  * [유튜브](https://youtu.be/J6PZQwHIiqQ)
 * 자료
   * [승욱님 슬라이드](https://docs.google.com/presentation/d/14cN2o7UcBSRHDyEQ3lsHgeHZzJywvF3wZlawPJa7W5c/edit?usp=sharing)
   * [Ambient](https://developer.android.com/reference/kotlin/androidx/compose/runtime/Ambient)
